@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on David Martínez</title>
+    <link>https://DavidMartinez16.github.io/David_Portfolio/post/</link>
+    <description>Recent content in Projects on David Martínez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://DavidMartinez16.github.io/David_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Analyst Salary Estimator</title>
+      <link>https://DavidMartinez16.github.io/David_Portfolio/post/chapter-6/</link>
+      <pubDate>Fri, 04 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://DavidMartinez16.github.io/David_Portfolio/post/chapter-6/</guid>
+      <description>This is a Data Science Project created to perform exploratory data analysis in the selected Dataset and develop a model to predict the Data Analyst salaries by analyzing different company characteristics and the Job Listing. The created tool is capable of estimate data analyst salaries with a MSE of $14K in job listings in USA by analyzing different features.
+Some Engineered features from the Job Description were extracted, such as amount of Python, Excel and AWS that Companies put on to see how valuable they were.</description>
+    </item>
+    
+    <item>
+      <title>Breast Cancer Microarray Predictor</title>
+      <link>https://DavidMartinez16.github.io/David_Portfolio/post/chapter-5/</link>
+      <pubDate>Tue, 01 Sep 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://DavidMartinez16.github.io/David_Portfolio/post/chapter-5/</guid>
+      <description>Breast cancer is called as an uncontrolled growth of breast cells that mostly occurs in women and rarely in men. In Latino America and the Caribbean for the year 2018, there were about 200.000 cases, of which approximately 50.000 died. This is a Machine Learning Project which uses a dataset that contains a microarray with more than 54.000 gene expressions of breast cancer. The target was to develop an algorithm capable of analyze and predict different breast cancer types, such as luminal A, luminal B, HER, Basal, Cell Line and Normal Tissue.</description>
+    </item>
+    
+    <item>
+      <title>Credit Card Fraud Detection</title>
+      <link>https://DavidMartinez16.github.io/David_Portfolio/post/chapter-3/</link>
+      <pubDate>Mon, 31 Aug 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://DavidMartinez16.github.io/David_Portfolio/post/chapter-3/</guid>
+      <description>It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase. This is a machine learning project that uses some anomaly detection algorithms in order to classify fraud and normal transactions.
+ Isolation Forest is the model with the best performance, with the highest accuracy. Isolation Forest detected 57 errors versus Local Outlier Factor detecting 97 errors and Support Vector Machines detecting 1420 errors.</description>
+    </item>
+    
+    <item>
+      <title>Mask Detection and Segmentation</title>
+      <link>https://DavidMartinez16.github.io/David_Portfolio/post/chapter-4/</link>
+      <pubDate>Sat, 29 Aug 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://DavidMartinez16.github.io/David_Portfolio/post/chapter-4/</guid>
+      <description>This is an Artificial Intelligence Project created to detect whether a person is wearing a Mask or not, besides, using segmentation the model detect the borders of the mask. The model used for Mask Detection was the Resnet50 and for Mask Segmentation was Coco. These models were trained using Google Colab due to their computational cost. For testing the models performance I used some random pictures and even pictures of myself.</description>
+    </item>
+    
+    <item>
+      <title>Breast Cancer Project</title>
+      <link>https://DavidMartinez16.github.io/David_Portfolio/post/chapter-1/</link>
+      <pubDate>Fri, 28 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://DavidMartinez16.github.io/David_Portfolio/post/chapter-1/</guid>
+      <description>This is a data science project that uses the breast cancer dataset, the objective is to predict the diagnosis by analyzing features of the tumor such as area, perimeter, radius, smoothness, compactness, concavity, symmetry, texture, among others.
+The used dataset was downloaded from the kaggle repository. Created a tool that estimates whether a tumor is malignant of benign by analyzing different features of itself. Models such as Logistic Regression, Support Vector Machines, K-Nearest Neighbors and Decision Trees obtained the best performance, with accuracy values greater than 90 % and F1-score greater than 93 %.</description>
+    </item>
+    
+    <item>
+      <title>California Housing Prices Estimator</title>
+      <link>https://DavidMartinez16.github.io/David_Portfolio/post/chapter-2/</link>
+      <pubDate>Fri, 21 Aug 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://DavidMartinez16.github.io/David_Portfolio/post/chapter-2/</guid>
+      <description>This is a project where I create some machine learning models in order to predict the value of a house in California by analyzing features as total rooms, total bedrooms, ocean proximity, median income, housing median age, among others.
+ The used dataset was downloaded from the kaggle repository, which contains different features of a house with the respective value. Created a machine learning model that estimates the price of a house in California by analyzing different features.</description>
+    </item>
+    
+  </channel>
+</rss>
